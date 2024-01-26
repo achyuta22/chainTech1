@@ -8,5 +8,7 @@
       5. models => List.js ------>has the schema of the databse
     
  4.  cors  axios is used to connect between frontend and backend.
- 5. to start server use nodemon ==> npm i nodemon  
- 6. nodemon app.js =>command used to start server and automatically update the changes.
+ 5.  install express by npm i express  ==> framework to write backend/node.js
+ 6.  install cors by npm i cors ==> used to connect frontend with backend
+ 7. to start server use nodemon ==> npm i nodemon  
+ 8. nodemon app.js =>command used to start server and automatically update the changes.
